@@ -51,7 +51,11 @@ Let's connect, collaborate, and together, we'll shape a future where the sky is 
 <code> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/> </a> </code> 
 <code><a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> </code>
 <code><a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> </code>
-<code><a href="https://figma.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma" width="40" height="40"/>  </a> </code> <br> <br>
+<code><a href="https://figma.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma" width="40" height="40"/>  </a> </code>
+<code><a href="https://expressjs.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/ExpressJS-Light.svg" alt="ExpressJS" width="40" height="40"/>  </a> </code>
+<code><a href="https://blender.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Blender-Dark.svg" alt="Blender" width="40" height="40"/>  </a> </code>
+<code><a href="https://expressjs.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg" alt="C" width="40" height="40"/>  </a> </code>
+<code><a href="https://expressjs.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg" alt="CPP" width="40" height="40"/>  </a> </code> <br> <br>
 </div>
 
 ## 🏆GitHub Analytics
